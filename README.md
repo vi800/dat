@@ -1,2 +1,5 @@
 # dat
-creating data structures
+## data structures
+1. linked list
+## compile command
+gcc dat.c
